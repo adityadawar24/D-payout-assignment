@@ -1,4 +1,4 @@
-Dukaan paymentcashfree dashboard
+Dukaan payments cashfree dashboard
 
 To run on your pc/laptop
 open your terminal:
